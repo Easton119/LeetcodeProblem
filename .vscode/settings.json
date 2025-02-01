@@ -3,6 +3,8 @@
         "*.ejs": "html",
         "algorithm": "cpp",
         "vector": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp"
     }
 }
