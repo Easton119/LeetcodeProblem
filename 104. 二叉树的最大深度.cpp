@@ -2,7 +2,9 @@
 #include<vector>
 #include<stack>
 using namespace std;
-
+/*
+理解深度的含义，判断边界条件：左右子树都为空
+*/
 struct TreeNode{
     int val;
     TreeNode* left;
